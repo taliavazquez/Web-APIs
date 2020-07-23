@@ -1,5 +1,5 @@
 # Web-APIs
-
+![code quiz](./Assets/04-web-apis-homework-demo.gif)
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
 ## Images
