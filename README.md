@@ -5,7 +5,7 @@ Password Generator
 
 ## Motivation
 
-This quiz motivated me to slow down and take in each concept, at my pace. I was able to learn how to pseudo code, in order to help me understand the process behind a site, I learned how the difference between strings and arrays. I also learned how to use my functions, objects, strings and if and else statements. 
+This quiz motivated me to slow down and take in each concept, at my pace. I was able to learn how to pseudo code, in order to help me understand the process behind a site, I learned how the difference between strings and arrays. I also learned how to use my functions, objects, strings and if/else statements. 
 
 
 ## Style
