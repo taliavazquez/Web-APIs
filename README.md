@@ -20,11 +20,11 @@ Shout out to the tutorial <a href="https://youtu.be/riDzcEQbX6k"><bold>Build A Q
 
 ## Project GitHub Repo
 
-<a href="https://github.com/taliavazquez/Web-APIs"><bold>My GitHub</bold></a>
+<a href="https://github.com/taliavazquez/Web-APIs.io"><bold>My GitHub</bold></a>
 
 
 ## Project Website
 
-<a href="https://taliavazquez.github.io/Web-APIs/"><bold>DEMPLOYED SITE</bold></a>
+<a href="https://taliavazquez.github.io/Web-APIs.io/"><bold>DEMPLOYED SITE</bold></a>
 
 © 2020 Talia Vazquez
