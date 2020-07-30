@@ -17,6 +17,13 @@ HTML, CSS, and JS
 
 Shout out to the tutorial <a href="https://youtu.be/riDzcEQbX6k"><bold>Build A Quiz App With JavaScript Tutorial</bold></a>. Which I followed step by step, in order to prepare for my next project, because I was not tecnically prepared for this one. I'm still working on mastering the timer and the local storage. I will be returning to complete this activity at a later time, to hone those skills. 
 
+Generated Questions from 
+<a href="https://www.intheknow.com/2020/07/06/this-4-question-personality-quiz-reveals-what-you-dont-know-about-yourself/"><bold>here.</bold></a>
+
+
+
+
+
 
 ## Project GitHub Repo
 
