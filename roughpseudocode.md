@@ -2,9 +2,9 @@
 [ ] 2. show instruction
 [x] 3. button to start quiz
    -Once user click (add an event listener .eventListener) in .js
-     * hide the previous instruction screen and the start button (hide) in .js
-     * Show question and list of possible answer (multi choice) (<buttons>)
-     * Show timer - timer count down start (<p> <a> <H1> js function) 
+     -hide the previous instruction screen and the start button (hide) in .js
+     -Show question and list of possible answer (multi choice) (<buttons>)
+     -Show timer - timer count down start (<p> <a> <H1> js function) 
 [x] 4. User take quiz- if user answer question- 
     - List 1st questions (<p>) and answer (<button> html or js .eventListener)
     - Once done, Telling user if you got the right or wrong answer (<p> if statement)
@@ -15,9 +15,9 @@
     - Timer stop (clearInterval in js reference activity 08)
     - questions and answer layouts went away (hide questions, show input)
      - display a new form that shows
-        * Final score (variable of correct answer )
-        * let user enter initial (inside an input)
-        * submit btn (button)
+        - Final score (variable of correct answer )
+        - let user enter initial (inside an input)
+        - submit btn (button)
             - score and initials get save local storage
     - redirect user to a new screen that show everyone high scores
 [ ] 6. High score
