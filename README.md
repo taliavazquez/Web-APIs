@@ -5,7 +5,7 @@ Personality Quiz
 
 ## Motivation
 
-I wantd to create a fun quiz for those personality test junkies :). 
+I wanted to create a fun quiz for those personality test junkies :). 
 
 ## Style
 
